@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: adicionando a classe totalValue">
+    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: adicionando as classes addContract, removeContract e income.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697716637155</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: adicionando as classes addContract, removeContract e income.">
+      <option name="closed" value="true" />
+      <created>1697717110052</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697717110052</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,7 +146,8 @@
     <MESSAGE value="feat: Adicionando entidade Worker ja com os construtores e utilizando lombok" />
     <MESSAGE value="feat: Instanciando lista HourContract" />
     <MESSAGE value="feat: adicionando a classe totalValue" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionando a classe totalValue" />
+    <MESSAGE value="feat: adicionando as classes addContract, removeContract e income." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionando as classes addContract, removeContract e income." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

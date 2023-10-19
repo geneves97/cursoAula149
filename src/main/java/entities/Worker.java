@@ -3,6 +3,7 @@ package entities;
 import entities.enums.WorkerLevel;
 import lombok.Data;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Data
@@ -12,7 +13,7 @@ public class Worker {
     private WorkerLevel level;
     private Double baseSalary;
     private  Department department;
-    private List<HourContract> contracts;
+    private List<HourContract> contracts = new ArrayList<>();
 
     public Worker() {
     }

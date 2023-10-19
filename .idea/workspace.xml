@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: adicionando entidade Department">
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/HourContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Department.java" afterDir="false" />
+    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: Adicionando entidade HourContract">
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/enums/WorkerLevel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -68,12 +66,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697715109981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Adicionando Lombok">
+      <option name="closed" value="true" />
+      <created>1697715379903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697715379903</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Adicionando Lombok a entidade Department">
+      <option name="closed" value="true" />
+      <created>1697715408981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697715408981</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Adicionando entidade HourContract">
+      <option name="closed" value="true" />
+      <created>1697715433615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697715433615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="feat: adicionando entidade Department" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionando entidade Department" />
+    <MESSAGE value="feat: Adicionando Lombok" />
+    <MESSAGE value="feat: Adicionando Lombok a entidade Department" />
+    <MESSAGE value="feat: Adicionando entidade HourContract" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Adicionando entidade HourContract" />
   </component>
 </project>

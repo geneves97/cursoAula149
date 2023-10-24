@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: adicionando as classes addContract, removeContract e income.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: instanciando um novo Worker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application/Program.java" afterDir="false" />
     </list>
@@ -41,6 +40,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -133,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697717110052</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: editando gitgnore">
+      <option name="closed" value="true" />
+      <created>1697717945198</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697717945198</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: adicionando inputs com o Scanner na classe principal">
+      <option name="closed" value="true" />
+      <created>1697718024518</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697718024518</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,7 +165,10 @@
     <MESSAGE value="feat: Instanciando lista HourContract" />
     <MESSAGE value="feat: adicionando a classe totalValue" />
     <MESSAGE value="feat: adicionando as classes addContract, removeContract e income." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionando as classes addContract, removeContract e income." />
+    <MESSAGE value="feat: editando gitgnore" />
+    <MESSAGE value="feat: adicionando inputs com o Scanner" />
+    <MESSAGE value="feat: adicionando inputs com o Scanner na classe principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionando inputs com o Scanner na classe principal" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

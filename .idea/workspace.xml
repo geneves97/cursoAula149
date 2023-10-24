@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: instanciando um novo Worker">
+    <list default="true" id="0fa73184-48df-4e68-a5d2-6f076434b908" name="Changes" comment="feat: instanciando um novo Contract e adicionando a um Worker.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application/Program.java" afterDir="false" />
     </list>
@@ -151,8 +151,27 @@
       <option name="project" value="LOCAL" />
       <updated>1697718024518</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: instanciando um novo Contract e adicionando a um Worker.">
+      <option name="closed" value="true" />
+      <created>1698148281923</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698148281923</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -168,7 +187,8 @@
     <MESSAGE value="feat: editando gitgnore" />
     <MESSAGE value="feat: adicionando inputs com o Scanner" />
     <MESSAGE value="feat: adicionando inputs com o Scanner na classe principal" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionando inputs com o Scanner na classe principal" />
+    <MESSAGE value="feat: instanciando um novo Contract e adicionando a um Worker." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: instanciando um novo Contract e adicionando a um Worker." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
